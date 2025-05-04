@@ -13,4 +13,4 @@
 
 Welcome to the official GitHub page of Suleyman Demirel University's Open Exploration & Research in Security Laboratory (SDUOERS). 
 
-PS: If you have not already guessed SDUOERS is kind a inspired by the terminology "sudoers". (You Google what sudoers mean in security context)  
+PS: If you have not already guessed SDUOERS is kind a inspired by the terminology "sudoers". (You can google what sudoers mean in a security context)  
